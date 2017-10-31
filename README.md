@@ -7,3 +7,29 @@
 
   FULL PUBLICATION SUBMITTED AUGUST 2017.
   Please contact me for inquiries related to updated code.
+
+## Brief Overview of Project
+(snippets of May 2015 defense presentation on project)
+
+### Overall Project Objectives
+<img src="images/OverallProjectObjectives.png">
+
+
+### Physical System Design
+<img src="images/SystemDesign.png">
+
+
+### Overview of Process Modeling
+<img src="images/ProcessModeling.png">
+
+
+### Decision Variables for Optimization
+<img src="images/OptDecisionVariables.png">
+
+
+### Optimization with Constraints
+<img src="images/OptConstrained.png">
+
+
+### Optimization with Penalty Functions
+<img src="images/OptPenaltyFxn.png">
