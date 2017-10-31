@@ -33,3 +33,7 @@
 
 ### Optimization with Penalty Functions
 <img src="images/OptPenaltyFxn.png">
+
+
+### Conclusions
+<img src="images/Conclusions.png">
