@@ -7,6 +7,7 @@
 
   FULL PUBLICATION SUBMITTED AUGUST 2017.
   Please contact me for inquiries related to updated code.
+  Abstract above is from Master's report, not publication.
 
 ## Brief Overview of Project
 (snippets of May 2015 defense presentation on project)
